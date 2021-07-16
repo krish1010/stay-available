@@ -1,0 +1,6 @@
+autopep8==1.5.7
+mouse==0.7.1
+pycodestyle==2.7.0
+pydocstyle==6.1.1
+snowballstemmer==2.1.0
+toml==0.10.2
