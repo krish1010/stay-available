@@ -12,7 +12,7 @@ Usage:
 - Install requirements: `pip install -r requirements.txt`
 - Make a copy of `move_mouse_example.bat`
 - Rename the file to `move_mouse.bat`
-- Edit `move_mouse_example.bat` in the following manner: `"path\to\python.exe" "path\to\driver.py" %1 %2 %3 %4`
+- Edit `move_mouse.bat` in the following manner: `"path\to\python.exe" "path\to\driver.py" %1 %2 %3 %4`
 - Run the file (optionally with arguments): $1, $2, $3, $4
 
 
